@@ -66,7 +66,7 @@
 
 Agent Request Desk provides a free MCP server that helps AI agents report and diagnose failures when accessing external sites. It captures blocked URLs, missing data, and error reasons, offering private reports without requiring accounts. The service aggregates public issue data, supports multiple client integrations (Claude, Cursor, VS Code, n8n), and supplies pointers to official APIs or datasets when available. Operated by Patrick Hussey in the UK, it aims to improve agent reliability and transparency.
 
-**Areas:** Company · AI · MCP · Diagnostics · Free · UK
+**Areas:** Company · Artificial Intelligence · MCP · Diagnostics · Free · United Kingdom
 
 ## Agent Request Desk on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentrequest Dev Agentic Access](https://apis.io/agentic-access/agentrequest-dev/agentrequest-dev-agentic-access/)
+- [Agent Request Desk Agentic Access](https://apis.io/agentic-access/agentrequest-dev/agentrequest-dev-agentic-access/)
 
 #### JSON-LD (1)
 
@@ -102,8 +102,8 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentrequest Dev Domain Security](https://apis.io/security/agentrequest-dev/agentrequest-dev-domain-security/)
-- [Agentrequest Dev Vulnerability Disclosure](https://apis.io/security/agentrequest-dev/agentrequest-dev-vulnerability-disclosure/)
+- [Agent Request Desk Domain Security](https://apis.io/security/agentrequest-dev/agentrequest-dev-domain-security/)
+- [Agent Request Desk Vulnerability Disclosure](https://apis.io/security/agentrequest-dev/agentrequest-dev-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -119,33 +119,33 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 30.7** — thin · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 23.1** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
+| Discoverability | 73.2 |
 | Contract quality | 10.7 |
-| Contract governance | 79.1 |
-| Operational transparency | 10.5 |
-| Developer ergonomics | 27.9 |
-| Access clarity | 21.1 |
+| Contract governance | 22.0 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 23.2 |
+| Access clarity | 17.0 |
 
-**Agent readiness 13.5** — agent-aware
+**Agent readiness 6.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
-| Well Known Catalog | — |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -155,6 +155,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
 
